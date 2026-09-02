@@ -35,13 +35,13 @@
     {
       "name": "男频衍生",
       "heat": 57,
-      "trend": "down",
+      "trend": "flat",
       "note": "男频新书榜出现 1 本，最高第 2；平均在读 67.3万"
     },
     {
       "name": "悬疑脑洞",
       "heat": 55,
-      "trend": "new",
+      "trend": "flat",
       "note": "男频新书榜出现 1 本，最高第 4；平均在读 49.7万"
     },
     {
@@ -329,6 +329,13 @@
   ],
   "ipHot": [
     {
+      "title": "满院亲戚全是上古大妖第二季",
+      "genre": "",
+      "form": "短剧",
+      "note": "红果官网首页推荐 · ",
+      "sourceUrl": "https://hongguoduanju.com/"
+    },
+    {
       "title": "糯糯下山，师兄们都慌了",
       "genre": "",
       "form": "短剧",
@@ -350,7 +357,7 @@
       "sourceUrl": "https://hongguoduanju.com/"
     },
     {
-      "title": "好雨知时节",
+      "title": "以爱为家第四季",
       "genre": "",
       "form": "短剧",
       "note": "红果官网首页推荐 · ",
@@ -358,13 +365,6 @@
     },
     {
       "title": "谁说纨绔不能当状元",
-      "genre": "",
-      "form": "短剧",
-      "note": "红果官网首页推荐 · ",
-      "sourceUrl": "https://hongguoduanju.com/"
-    },
-    {
-      "title": "满院亲戚全是上古大妖第二季",
       "genre": "",
       "form": "短剧",
       "note": "红果官网首页推荐 · ",
